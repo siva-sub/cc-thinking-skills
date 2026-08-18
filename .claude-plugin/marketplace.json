@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "thinking-skills",
-      "source": "./",
+      "source": "./plugin",
       "description": "28 eval-informed thinking skills for Claude Code, including first-principles, probabilistic reasoning, systems thinking, TRIZ, OODA, pre-mortem analysis, and more",
       "version": "1.0.0",
       "category": "productivity",
